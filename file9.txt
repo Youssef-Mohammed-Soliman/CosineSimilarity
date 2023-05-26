@@ -1,0 +1,2 @@
+Computer architecture, or digital computer organization, 
+is the conceptual design and fundamental operational structure of a computer system. 

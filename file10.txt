@@ -1,0 +1,2 @@
+Computer security is a branch of computer technology with the objective of protecting information from unauthorized access, disruption, 
+or modification while maintaining the accessibility and usability of the system for its intended users.
